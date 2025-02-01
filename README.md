@@ -48,4 +48,12 @@
 
 
 ## Tasks
-- [ ] Create a new project
+- [X] Create a new project
+- [X] Setup minimal FastAPI project
+- [X] Create docker and docker-compose files
+- [ ] Setup ORM
+- [ ] Setup Alembic
+- [ ] Add FastApi Users lib and Create User model
+- [ ] Create Request model
+- [ ] Add CRUD for Users
+- [ ] Add CRUD for Requests
